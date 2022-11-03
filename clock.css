@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1{
+    color: aqua;
+    font-size: 25pt;
+    font-family: "Lucida Handwriting";
+}
+.span{
+    text-decoration: underline;
+}
+hr{
+    border-top: 5px dotted red;
+    border-collapse: collapse;
+}
+.head1{
+    color: brown;
+}
+.head2{
+    color:pink;
+}
+.head3{
+    color: yellow;
+}
+/*.div1{
+    color: red;
+}
+.div2{
+    background-color:rgb(111, 111, 204);
+}
+.div1{
+    background-color: violet;
+}
+.div1{
+    background-color: rgb(163, 96, 96);
+}
+.div1{
+    background-color: rgb(104, 68, 24);
+}
+*/
+pic:hover{
+    background-color: brown;
+
+}
